@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1539415694 source:c:\users\steve.huguenin\programmation\c\io_ex4\main.c
+	"main.h"
+
+1539415368 c:\users\steve.huguenin\programmation\c\io_ex4\main.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

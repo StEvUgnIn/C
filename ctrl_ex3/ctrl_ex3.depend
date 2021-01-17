@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540549746 source:c:\users\steve.huguenin\programmation\c\ctrl_ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541607671 source:c:\users\steve.huguenin\programmation\c\func_ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+

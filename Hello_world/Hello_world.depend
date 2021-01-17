@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1541760841 source:c:\users\steve.huguenin\programmation\c\hello_world\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hello.h"
+	"world.h"
+
+1537370984 source:c:\users\steve.huguenin\programmation\c\hello_world\add.c
+	<stdio.h>
+
+1541760949 source:c:\users\steve.huguenin\programmation\c\hello_world\hello.c
+	"hello.h"
+	<stdio.h>
+
+1541760368 c:\users\steve.huguenin\programmation\c\hello_world\hello.h
+
+1541760375 c:\users\steve.huguenin\programmation\c\hello_world\world.h
+

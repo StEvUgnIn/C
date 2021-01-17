@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544890170 source:c:\users\steve.huguenin\programmation\c\dyn-alloc_ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+

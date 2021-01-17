@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537526201 source:c:\users\steve.huguenin\programmation\c\interet_capital\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<locale.h>
+
